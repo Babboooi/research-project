@@ -16,7 +16,7 @@ MISC
     color: #50a98a;
   }
   .nav-link:hover {
-    color:#3a7b64;
+    color:black;
   }
   .btn-unique {
     background-color: pink;
@@ -49,6 +49,12 @@ HERO SECTION
     background-color:pink;
     background-position:center;
     background-size: cover;
+    color:#000;
+    font-size:100px;
+    
+
+    
+
 }
 
 .hero-section {
@@ -59,10 +65,10 @@ HERO SECTION
     width:auto;
     padding: 0 20px; /* Adjust padding as needed */
     box-sizing: border-box;
-    background-color:white;
-    font-size:56px;
-    font-weight:900;
-
+    background-color:black;
+    font-size:60px;
+    font-weight:800;
+    color:black;
 }
 
 /*
